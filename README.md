@@ -85,4 +85,23 @@ Qualitative Observations:
 - Physical_Hesitation: Pausing with the mouse for more than 3 seconds or scrolling a bit.
 - Posture_Change: Leaning in close to read or leaning back in frustration.
 
-### Step 4: 
+### Step 4: SUS Survey
+After finishing both the tasks, the participants will complete the 10 question google form.
+
+1. I think that I would like to use this system frequently.
+2. I found the system unnecessarily complex.
+3. I thought the system was easy to use.
+4. I think that I would need a tutorial to be able to use this system.
+5. I found the various functions in this system were well integrated.
+6. I thought there was too much inconsistency in this system.
+7. I would guess that most people would learn to use this system very quickly.
+8. I found the system very difficult to use.
+9. I felt very confident using the system.
+10. I needed to learn a lot of things before I could start using this system.
+
+How the SUS Score is calculated:
+- Odd questions: Take the users score and subtract 1.
+- Even questions: Take 5 minus the users score.
+- Final score: Add all converted numbers together and multiply by 2.5 to get a score from 0 to 100.
+
+### Step 5
