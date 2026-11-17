@@ -41,4 +41,11 @@ Question 5: Are you available for a test session and okay with being observed fo
 - Yes
 - No
 
+### Step 2: Moderator Script and Tasks
+"Hello, and thank you for helping with this usability test today. Before we start I want to go over a few things with you.
 
+First this is completely voluntary and you can take a break or stop at any time without penalty.
+
+Second, we are testing the Weber State Banner registration website and not you or your abilities. If something is confusing or hard to find then the issue is with the website and not you.
+
+Third, with your permission I will record your screen and voice while taking notes. Your name and student number won't be saved anywhere and your data will be kept private with s special code to identify you. Do you have any questions and are you okay to start?
