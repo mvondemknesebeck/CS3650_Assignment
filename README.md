@@ -42,10 +42,29 @@ Question 5: Are you available for a test session and okay with being observed fo
 - No
 
 ### Step 2: Moderator Script and Tasks
+Welcome Script:
+
 "Hello, and thank you for helping with this usability test today. Before we start I want to go over a few things with you.
 
 First this is completely voluntary and you can take a break or stop at any time without penalty.
 
 Second, we are testing the Weber State Banner registration website and not you or your abilities. If something is confusing or hard to find then the issue is with the website and not you.
 
-Third, with your permission I will record your screen and voice while taking notes. Your name and student number won't be saved anywhere and your data will be kept private with s special code to identify you. Do you have any questions and are you okay to start?
+Third, with your permission I will record your screen and voice while taking notes. Your name and student number won't be saved anywhere and your data will be kept private with a special code to identify you. Do you have any questions and are you okay to start?"
+
+Think Aloud Instructions:
+
+"As you work through all the tasks, please think aloud when you can. Tell me what you are looking at, what you expect to happen, and what confuses you. Please act like you are doing this by yourself since I can't assist or answer questions. I may speak to you if you get quiet."
+
+Moderator can say these if the subject is quiet for too long:
+- What are you thinking?
+- What are you expecting to see?
+
+Tasks Examples:
+
+These will ignore certain words seen in the program to avoid interfering in their decisions.
+
+- Task 1: "Enrollment opened for the upcoming term and you need to use the portal to find a 3 credit computer science course that can be taken after 1PM on Tuesdays and Thursdays and has open seats. Then finalize the enrollment."
+- Task 2: "You noticed on of your courses overlaps with your work schedule. Find the class, remove it, and check that the credits updated."
+
+### Step 3: Metrics and Data Logging Sheet
