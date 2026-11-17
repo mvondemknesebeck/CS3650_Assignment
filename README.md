@@ -25,13 +25,20 @@ Question 1: What is your current year in school?
 - Junior/Senior
 - Graduate/No Degree (Exclude these people)
 
-  Question 2: What is your experience with registration portals?
-  - First time
-  - 1 to 3 semesters
-  - 4 or more semesters
+Question 2: What is your experience with registration portals?
+- First time
+- 1 to 3 semesters
+- 4 or more semesters
  
-  Question 3:
+Question 3: How do you pick out which classes to take before registering?
+- Written answer.
 
-  Question 4:
+Question 4: Do you use any tools or settings to help you with browsing websites like a screen reader, zoom, etc?
+- Yes, then answer which one.
+- No
+  
+Question 5: Are you available for a test session and okay with being observed for research?
+- Yes
+- No
 
-  Question 5:
+
