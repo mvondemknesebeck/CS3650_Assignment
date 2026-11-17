@@ -104,4 +104,11 @@ How the SUS Score is calculated:
 - Even questions: Take 5 minus the users score.
 - Final score: Add all converted numbers together and multiply by 2.5 to get a score from 0 to 100.
 
-### Step 5
+### Step 5: Accessibility Check
+The google form SUS survey was checked against key WCAG 2.1 level AA accessibility guidelines:
+- Clear Labels and keyboard use: Every radio button is correctly labeled for screen readers and users can move through and select answers using the tab and arrow keys.
+- Color contrast (>=4.5:1): The dark text on a white background has a 16:1:1 contrast ratio that passes the 4.5:1 minimum.
+- Required Field Error: Every question is set to required so if someone tries to hit submit with a blank answer then the form highlights the missed question and jumps to it.
+
+Post Mortem:
+1. The SUS switches between positive and negative statements to prevent bias from being tired. Alternating words helps so that people have to read every question. And if someone just clicks the same number for every row then the math will cancel out to a score of 50 that won't affect the results.
