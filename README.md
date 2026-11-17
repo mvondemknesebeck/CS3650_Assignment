@@ -9,6 +9,29 @@ Logging Sheet: empirical_usability/usability_logging_sheet.csv
 
 ### Step 1: Study Scope & Participant Screener
 This study tests how easily students can use the Weber State Banner Registration system to search for classes, build a schedule, and manage enrollment of classes.
-Tak 1: Find an open class for a computer science course for next semester and enroll in it.
+
+Task 1: Find an open class for a computer science course for next semester and enroll in it.
 
 
+Task 2: Remove a course from the current schedule and verify the credits were reduced.
+
+Participant Screener Survey
+
+Goal: Recruit 3 to 5 students with different registration experience levels.
+
+Question 1: What is your current year in school?
+- Freshman
+- Sophomore
+- Junior/Senior
+- Graduate/No Degree (Exclude these people)
+
+  Question 2: What is your experience with registration portals?
+  - First time
+  - 1 to 3 semesters
+  - 4 or more semesters
+ 
+  Question 3:
+
+  Question 4:
+
+  Question 5:
