@@ -112,3 +112,4 @@ The google form SUS survey was checked against key WCAG 2.1 level AA accessibili
 
 Post Mortem:
 1. The SUS switches between positive and negative statements to prevent bias from being tired. Alternating words helps so that people have to read every question. And if someone just clicks the same number for every row then the math will cancel out to a score of 50 that won't affect the results.
+2. If a moderator accidentally says things like "Good job" or "Close", nods or leans, when the participant is hovers over a right menu then the clues will let them know and alter the results. This makes their time faster and lowers error count because they stop exploring and stick to the paths they guessed are right based on the hints. This protocol prevents that because the moderator read from a script, avoids answering questions, doesn't confirm clicks, uses written tasks that don't use names from program, and sit out of the participants view.
