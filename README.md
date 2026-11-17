@@ -68,3 +68,21 @@ These will ignore certain words seen in the program to avoid interfering in thei
 - Task 2: "You noticed on of your courses overlaps with your work schedule. Find the class, remove it, and check that the credits updated."
 
 ### Step 3: Metrics and Data Logging Sheet
+All observations are tracked in the empirical_usability/usability_logging_sheet.csv
+
+Quantitative Metrics:
+- Participant ID: Anonymous code (P01 to P05)
+- Assistance_Used: Any tools used.
+- Task ID: Which task is being tested.
+- Task_Time_sec: Total seconds from when the participant starts the task until they finish.
+- Task_Success_Code: 1.0 = Finished by themselves, 0.5 = finished with help, 0.0 = couldn't finish.
+- Error_Count: Number of wrong clicks/mistakes.
+- SEQ_Score: After task rating from 1 being hard to 7 being easy.
+
+Qualitative Observations:
+- Facial_Expressions: Signs of confusion or frustration.
+- Verbal_Noises: Sounds of confusions, sighing, or surprise.
+- Physical_Hesitation: Pausing with the mouse for more than 3 seconds or scrolling a bit.
+- Posture_Change: Leaning in close to read or leaning back in frustration.
+
+### Step 4: 
